@@ -29,16 +29,15 @@
 
 ## 下载
 
-### 正式版（Stable）
+前往 [Releases](https://github.com/shandianshuo/shandianshuo-releases/releases) 页面下载最新版本。
 
-| 平台 | 下载链接 | 说明 |
+- **正式版（Stable）** — 稳定版本，推荐日常使用
+- **开发版（Dev）** — 包含最新功能和修复，可能不够稳定，带有 `Pre-release` 标签
+
+| 平台 | 文件格式 | 说明 |
 |------|---------|------|
-| macOS | [shandianshuo_0.6.6_universal.dmg](https://download.shandianshuo.cn/macos/shandianshuo_0.6.6_universal.dmg) | 支持 Intel 和 Apple Silicon |
-| Windows | [shandianshuo_0.6.6_x64-setup.exe](https://download.shandianshuo.cn/windows/shandianshuo_0.6.6_x64-setup.exe) | 64 位 Windows |
-
-### 开发版（Dev）
-
-开发版包含最新功能和修复，可能不够稳定。前往 [Releases](https://github.com/shandianshuo/shandianshuo-releases/releases) 页面，查看带有 `Pre-release` 标签的版本。
+| macOS | `.dmg` | 支持 Intel 和 Apple Silicon |
+| Windows | `.exe` | 64 位 Windows |
 
 ## 功能特性
 
