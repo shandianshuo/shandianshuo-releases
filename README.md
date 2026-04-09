@@ -32,7 +32,7 @@
 前往 [Releases](https://github.com/shandianshuo/shandianshuo-releases/releases) 页面下载最新版本。
 
 - **正式版（Stable）** — 稳定版本，推荐日常使用
-- **开发版（Dev）** — 包含最新功能和修复，可能不够稳定，带有 `Pre-release` 标签
+- **开发版（Dev）** — 包含最新功能和修复，可能不够稳定
 
 | 平台 | 文件格式 | 说明 |
 |------|---------|------|
