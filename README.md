@@ -43,7 +43,7 @@
 
 ### 桌面端
 
-- [最新正式版](https://github.com/shandianshuo/shandianshuo-releases/releases/latest) — 稳定版本，推荐日常使用
+- [最新正式版](https://shandianshuo.cn/download) — 稳定版本，推荐日常使用
 - [全部版本](https://github.com/shandianshuo/shandianshuo-releases/releases) — 包含最新功能和修复的预发布版本
 
 | 平台 | 架构 | 安装包 | 状态 |
@@ -52,24 +52,11 @@
 | Windows | x64 | `.exe` 安装程序 | 正式版 |
 | Linux | x86_64 / amd64 | `.AppImage`、`.deb`、`.rpm` | 内测，持续完善中 |
 
-#### Linux 安装包怎么选
-
-- **AppImage** — 便携版本，下载后添加执行权限即可运行
-- **DEB** — 适用于 Debian、Ubuntu 等使用 DEB 包的发行版
-- **RPM** — 适用于 Fedora、RHEL 等使用 RPM 包的发行版
-
-AppImage 首次运行前需要添加执行权限：
-
-```bash
-chmod +x shandianshuo_*_amd64.AppImage
-./shandianshuo_*_amd64.AppImage
-```
+Linux 用户可根据发行版选择 AppImage（便携版）、DEB（Debian/Ubuntu）或 RPM（Fedora/RHEL）。
 
 Linux 版本目前处于内测阶段。如遇到问题，欢迎在本仓库 [提交 GitHub Issue](https://github.com/shandianshuo/shandianshuo-releases/issues/new)。
 
 ### 移动端
-
-Android 和 iOS 版本由合作伙伴独立开发和发布，不在本仓库的 GitHub Releases 中。请通过以下地址获取：
 
 | 平台 | 下载地址 |
 | --- | --- |
