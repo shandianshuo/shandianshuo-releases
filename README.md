@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shandianshuo.cn">
-    <img src="https://shandianshuo.cn/logo.png" alt="闪电说" width="120" />
+    <img src="assets/logo-rounded.png" alt="闪电说" width="120" />
   </a>
 </p>
 
