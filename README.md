@@ -65,7 +65,7 @@ chmod +x shandianshuo_*_amd64.AppImage
 ./shandianshuo_*_amd64.AppImage
 ```
 
-Linux 版本目前处于内测阶段。如遇到问题，欢迎通过 [用户反馈](https://shandianshuo.featurebase.app) 告诉我们。
+Linux 版本目前处于内测阶段。如遇到问题，欢迎在本仓库 [提交 GitHub Issue](https://github.com/shandianshuo/shandianshuo-releases/issues/new)。
 
 ### 移动端
 
